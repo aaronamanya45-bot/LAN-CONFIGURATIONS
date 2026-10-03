@@ -104,7 +104,7 @@ PowerShell:
 Test-NetConnection google.com -Port 443
 ```
 
-## Common Windows Troubleshooting Order
+## COMMAND WINDOWS TROUBLESHOOTING ORDER
 
 ```text
 ipconfig
