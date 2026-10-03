@@ -1,4 +1,4 @@
-# Windows Network Configuration Commands
+# WINDOWS NETWORK CONFIGURATION COMMANDS
 
 These commands are commonly used in Windows Command Prompt.
 
